@@ -1,0 +1,14 @@
+const container  {
+    background: 'black',
+    color: 'white'
+};
+
+const styleMenu {
+    background;: '#0B30A8',
+    color:'white',
+    fontFamily:'verdana',
+    listStyle: 'none',
+    float: 'left',
+    margin: "20p 1000px 20px 50px",
+    padding: 10
+  };
